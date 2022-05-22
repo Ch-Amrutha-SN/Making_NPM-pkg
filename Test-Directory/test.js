@@ -1,0 +1,1 @@
+const simplecalculatorsample=require('simplecalculatorsample');
